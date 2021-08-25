@@ -1,0 +1,11 @@
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci1\bin\Debug\Domaci1.exe.config
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci1\bin\Debug\Domaci1.exe
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci1\bin\Debug\Domaci1.pdb
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci1\obj\Debug\Domaci1.csprojAssemblyReference.cache
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci1\obj\Debug\Domaci1.FilterForm.resources
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci1\obj\Debug\Domaci1.Form1.resources
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci1\obj\Debug\Domaci1.Properties.Resources.resources
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci1\obj\Debug\Domaci1.csproj.GenerateResource.cache
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci1\obj\Debug\Domaci1.csproj.CoreCompileInputs.cache
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci1\obj\Debug\Domaci1.exe
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci1\obj\Debug\Domaci1.pdb

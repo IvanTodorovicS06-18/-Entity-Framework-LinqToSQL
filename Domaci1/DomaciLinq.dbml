@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="TSQL" Class="DomaciLinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-47S0CJA;Initial Catalog=TSQL;Integrated Security=True" SettingsObjectName="Domaci1.Properties.Settings" SettingsPropertyName="TSQLConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="Production.Suppliers" Member="Suppliers">
+    <Type Name="Supplier">
+      <Column Name="supplierid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="companyname" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="contactname" Type="System.String" DbType="NVarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="contacttitle" Type="System.String" DbType="NVarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="city" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="region" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="postalcode" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="country" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="phone" Type="System.String" DbType="NVarChar(24) NOT NULL" CanBeNull="false" />
+      <Column Name="fax" Type="System.String" DbType="NVarChar(24)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="Production.PRead" Method="PRead">
+    <ElementType Name="PReadResult">
+      <Column Name="supplierid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="companyname" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="contactname" Type="System.String" DbType="NVarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="contacttitle" Type="System.String" DbType="NVarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="city" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="region" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="postalcode" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="country" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="phone" Type="System.String" DbType="NVarChar(24) NOT NULL" CanBeNull="false" />
+      <Column Name="fax" Type="System.String" DbType="NVarChar(24)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="Production.PInsert" Method="PInsert">
+    <Parameter Name="companyname" Type="System.String" DbType="NVarChar(40)" />
+    <Parameter Name="contactname" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="contacttitle" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="address" Type="System.String" DbType="NVarChar(60)" />
+    <Parameter Name="city" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="region" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="postalcode" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="country" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="phone" Type="System.String" DbType="NVarChar(24)" />
+    <Parameter Name="fax" Type="System.String" DbType="NVarChar(24)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="Production.PDelete" Method="PDelete">
+    <Parameter Name="supplierid" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="Production.PUpdate" Method="PUpdate">
+    <Parameter Name="supplierid" Type="System.Int32" DbType="Int" />
+    <Parameter Name="companyname" Type="System.String" DbType="NVarChar(40)" />
+    <Parameter Name="contactname" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="contacttitle" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="address" Type="System.String" DbType="NVarChar(60)" />
+    <Parameter Name="city" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="region" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="postalcode" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="country" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="phone" Type="System.String" DbType="NVarChar(24)" />
+    <Parameter Name="fax" Type="System.String" DbType="NVarChar(24)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

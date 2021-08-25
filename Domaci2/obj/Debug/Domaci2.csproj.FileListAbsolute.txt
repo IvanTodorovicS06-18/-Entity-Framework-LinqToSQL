@@ -1,0 +1,16 @@
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\bin\Debug\Domaci2.exe.config
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\bin\Debug\Domaci2.exe
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\bin\Debug\Domaci2.pdb
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\bin\Debug\EntityFramework.dll
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\bin\Debug\EntityFramework.xml
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\obj\Debug\Domaci2.csprojAssemblyReference.cache
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\obj\Debug\Domaci2.Form1.resources
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\obj\Debug\Domaci2.Properties.Resources.resources
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\obj\Debug\Domaci2.csproj.GenerateResource.cache
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\obj\Debug\Domaci2.csproj.CoreCompileInputs.cache
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\obj\Debug\Domaci2.csproj.CopyComplete
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\obj\Debug\Domaci2.exe
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\obj\Debug\Domaci2.pdb
+C:\Users\todor\OneDrive\Desktop\MTPPklk2\Domaci2\obj\Debug\Domaci2.InsertForm.resources

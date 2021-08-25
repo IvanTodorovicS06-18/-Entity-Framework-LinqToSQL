@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DomaciLinq">
+  <DataContextMoniker Name="/DomaciLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="1fb89bcb-e484-48a9-b077-7b2318dcd0cb" absoluteBounds="5.75, 2.125, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/DomaciLinqDataContext/Supplier" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c8a395a8-507e-416d-9a58-e05ed1a350b2" absoluteBounds="5.765, 2.585, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
